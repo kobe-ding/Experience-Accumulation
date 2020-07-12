@@ -7,5 +7,7 @@ sys.executable
 
 in both python.exe and Jupyter Notebook. The two paths should be the same.
 
+To change the corresponding path of Jupyter Notebook, go to \\jupyter\kernels\.. 
+
 
 2. 
