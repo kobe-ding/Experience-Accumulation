@@ -1,0 +1,8 @@
+1. About IMPORT modules:
+
+If certain packages(modules) have been installed in anaconda but cannot be imported smoothly in Jupyter, check:
+
+import sys
+sys.executable
+
+in both python.exe and Jupyter Notebook. The two paths should be the same.
