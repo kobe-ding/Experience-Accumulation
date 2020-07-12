@@ -6,3 +6,6 @@ import sys
 sys.executable
 
 in both python.exe and Jupyter Notebook. The two paths should be the same.
+
+
+2. 
